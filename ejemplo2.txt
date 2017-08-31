@@ -4,4 +4,8 @@ hola3
 hola4
 adios
 v3
+<<<<<<< HEAD
 v13
+=======
+v14
+>>>>>>> rama2
